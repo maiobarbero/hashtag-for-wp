@@ -1,4 +1,5 @@
 === Hashtags for WordPress ===
+
 Donate link: https://www.buymeacoffee.com/maiobarbero
 Tags: hashtags, tag
 Requires at least: 5.4
