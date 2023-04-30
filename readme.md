@@ -12,6 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 This plugin automatically turns native WordPress tags into hashtags, linking them to their respective tag archives. You can customize the hashtag symbol and link color, and fine-tune the plugin through the settings panel. Ideal for digital newspapers and magazines looking to increase content discoverability and shareability on social media.
 
 == Description ==
+
 This plugin automatically searches for native tags within the post content and adds a hashtag symbol before each one. It then links the tags to their respective tag archives, which can be useful for digital newspapers and magazines. With this plugin, you can easily turn your WordPress tags into hashtags, making your content more discoverable and shareable on social media.
 
 The plugin comes with several customization options. You can change the default hashtag symbol used by the plugin, as well as the color of the links. You can also modify the plugin behavior through the settings panel, allowing you to fine-tune the plugin to your needs.
