@@ -1,8 +1,8 @@
-.hashtags-page{
+.hashtags-page {
     width: 80%;
     margin: 50px auto;
 }
-.hashtags-page p{
+.hashtags-page p {
     font-size: 18px;
     line-height: 25px;
 }
@@ -38,7 +38,7 @@ label {
     flex-basis: 200px;
 }
 
-input[type="submit"] {
+input[type='submit'] {
     background-color: #007cba;
     border: none;
     color: #fff;
@@ -47,6 +47,6 @@ input[type="submit"] {
     cursor: pointer;
 }
 
-input[type="submit"]:hover {
+input[type='submit']:hover {
     background-color: #005b80;
 }

@@ -21,13 +21,6 @@ class HashtagsForWp
     add_action('admin_enqueue_scripts', array($this, 'hashtags_for_wp_enqueue_styles'));
   }
 
-  public static function get_instance()
-  {
-    if (!isset(self::$instance)) {
-      self::$instance = new self();
-    }
-    return self::$instance;
-  }
 
   public function init()
   {
